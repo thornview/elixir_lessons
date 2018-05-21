@@ -18,6 +18,10 @@
 
 
 # Playing with Elixir
+## Variables
+* Outside of a module, variables should start with a lower case letter
+* In Elixir, snake case variable names are preferred (this_is_snake_case)
+
 ## Some Syntax
 The tables below introduce data types and operators for Elixir. Use IEX and these tables to do the exercises below. 
 
