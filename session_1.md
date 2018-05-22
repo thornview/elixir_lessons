@@ -19,7 +19,8 @@
 
 # Playing with Elixir
 ## Variables
-* Outside of a module, variables should start with a lower case letter
+* Variables are dynamic
+* Variables start with a lower case letter and may end with a `?` or `!`
 * In Elixir, snake case variable names are preferred (this_is_snake_case)
 
 ## Some Syntax
