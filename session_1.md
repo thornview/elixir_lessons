@@ -9,7 +9,7 @@
 ## Thinking Differently
 * _"The problem with a completely new programming paradigm isn't learning a new language. ... The tricky part is learning to __think__ in a different way."_ - Neal Ford
 * _"OO makes code understandable by encapsulating moving parts.  FP makes code understandable by minimizing moving parts"_ - Michael Feathers
-* _"Imperative programming focuses on __how to solve a problem__, describing each step as actions. ... Declarative programming focues on __what is necessary to solve a problem__."_ - Ulisses Almeida
+* _"Imperative programming focuses on __how to solve a problem__, describing each step as actions. ... Declarative programming focuses on __what is necessary to solve a problem__."_ - Ulisses Almeida
 
 ## Some Key Concepts of Functional Programming
 * All values are immutable
