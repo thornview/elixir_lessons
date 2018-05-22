@@ -21,7 +21,7 @@
 ## Variables
 * Variables are dynamic
 * Variables start with a lower case letter and may end with a `?` or `!`
-* In Elixir, snake case variable names are preferred (this_is_snake_case)
+* In Elixir, snake case variable names are preferred `this_is_snake_case`
 
 ## Some Syntax
 The tables below introduce data types and operators for Elixir. Use IEX and these tables to do the exercises below. 
@@ -58,4 +58,20 @@ Technically, _true_, _false_ and _nil_ are the atoms :true, :false, and :nil
 1.  Does `1 == 1.0`?
 2.  Does `"1" == 1`?
 3.  Does `:dog == "dog"`?
+4.  Generate the following error: `(ArithmeticError) bad argument in arithmetic expression`
+5.  What happens when you start a variable with a captial letter?
+6.  Use variables to calculate the area of a circle
+7.  Create two string variables, then output the concatentation of the two strings
+8.  Use a variable that ends with `?` or `!`
+9.  Which of the following is false?  Which is illegal?
+  * `nil || 0`
+  * `false || nil`
+  * `false && nil`
+  * `false && 0`
+  * `nil or 0`
+  * `0 or false`
+  * `nil && true`
+10. Generate the following error: `(ArgumentError) argument error`
+11. Accordint to Elixir, what is `2 + 1.141`?
+12.  What is equal to `:my_value`?
 
