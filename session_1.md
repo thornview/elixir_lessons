@@ -92,4 +92,3 @@ Enter the following commands in IEx to explore the RPL interface
   * `nil && true`
 8. According to Elixir, what is `2 + 1.141`?
 9. What is equal to `:my_value`?
-
