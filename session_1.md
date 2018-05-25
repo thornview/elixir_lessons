@@ -1,5 +1,4 @@
 # Getting Started
-
 ## Why Functional Programming
 * Concurrency is difficult in OOP
 * CPUs aren't getting faster, they are getting more cores
@@ -16,7 +15,7 @@
 * The code is declarative (focus on "what" instead of "how", ie - "Here's my list, here's the filter" instead of "Here's the list.  Now, take the first item, compare it to the filter, decide if matches, then do this with it, then get the next value ... etc.")
 
 
-# Playing with Elixir
+# IEx and Basic Data Types
 
 ## IEx
 |command|description|
